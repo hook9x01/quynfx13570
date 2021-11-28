@@ -36,3 +36,12 @@ body{background-image: url(image/VNO-doson2.jpg);}
     animation-fill-mode: forwards;
 }
 #photoul img{width: 85%;border-radius: 10px;margin:1%}
+#gmaps{
+    width: 43%;
+    margin:auto;
+    margin-bottom:4%;
+}
+.fb-page{width: 43%;margin:auto;}
+#location {
+    display:flex;
+}
