@@ -179,7 +179,11 @@ iframe{width: 100%;}
         width: 33.3333%;
         padding:1%;
     }
-
+footer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
     #gmaps{
         width: 43%;
         margin:auto;
