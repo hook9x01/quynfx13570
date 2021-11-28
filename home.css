@@ -173,10 +173,12 @@ iframe{width: 100%;}
         flex-direction: row;
         box-sizing: border-box;
         margin:auto;
+        flex-wrap: wrap;
+        justify-content: center;
     }
     .column2{
         height: auto;
-        width: 33.3333%;
+        width: 31%;
         padding:1%;
     }
 footer{
