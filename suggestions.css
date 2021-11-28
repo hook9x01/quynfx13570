@@ -5,7 +5,7 @@
 body{
     display: flex;
     flex-direction: column;
-    background-image: url(Image/ha-long.jpg);
+    background-image: url(image/ha-long.jpg);
     background-size:initial;
     background-repeat: no-repeat;
 }

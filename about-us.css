@@ -2,7 +2,7 @@
     0% { opacity: 0%;}
     100% {opacity: 80%;}
 }
-body{background-image: url(Image/VNO-doson2.jpg);}
+body{background-image: url(image/VNO-doson2.jpg);}
 #info { 
     width: 85%;
     margin: 2% auto;
