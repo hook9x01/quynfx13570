@@ -189,6 +189,7 @@ footer{
     #gmaps{
         width: 43%;
         margin:auto;
+        margin-bottom:0%;
     }
     .fb-page{width: 43%;margin:auto;}
 }
