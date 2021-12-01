@@ -185,13 +185,7 @@ footer{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-}
-    #gmaps{
-        width: 43%;
-        margin:auto;
-        margin-bottom:4%;
     }
-    .fb-page{width: 43%;margin:auto;}
 }
 @keyframes start {
     0% { opacity: 0%;}
